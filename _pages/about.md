@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently pursuing my MSc in Cognitive Systems at the University of Potsdam. My research interests include NLP, LLMs, phonology,East Asian studies, and Digital Humanities. I am a student assistant with the [colab](https://clp.ling.uni-potsdam.de/) (Computational Linguistics and Psycholinguistics) group at the University of Potsdam, where I work on evaluating LLMs on dialogue games with the [clembench framework](https://clembench.github.io/).
+I am currently pursuing my MSc in Cognitive Systems at the University of Potsdam. My research interests include NLP, LLMs, phonology, East Asian studies, and Digital Humanities. I am a student assistant with the [colab](https://clp.ling.uni-potsdam.de/) (Computational Linguistics and Psycholinguistics) group at the University of Potsdam, where I work on evaluating LLMs on dialogue games with the [clembench framework](https://clembench.github.io/).
 
 I am also involved in the digital humanities field, working as a student assistant at the Department for East Asian Studies at the Humboldt University of Berlin, where I contribute to the development of a digital edition of an Hokkien-Spanish dictionary from 17th century Manila. You can find more information about the project at [EMHo](https://gams.uni-graz.at/emho).
  
