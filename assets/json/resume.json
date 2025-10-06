@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Karl Osswald",
+    "name": "Karl Osswald 林楷之",
     "label": "MSc student in Cognitive Systems",
     "image": "",
     "email": "karl.osswald@uni-potsdam.de",
@@ -51,7 +51,7 @@
       "summary": "Assisting in research and general administrative tasks for the chair of Modern Chinese Languages and Literatures. "
     },
     {
-      "name": "DoReCo, Leibniz-Centr for General Linguistics (ZAS), Berlin",
+      "name": "DoReCo, Leibniz-Centre for General Linguistics (ZAS), Berlin",
       "position": "Student Assistant",
       "startDate": "2022-02-28",
       "endDate": "2021-03-01",
@@ -70,6 +70,17 @@
       "courses": ["Advanced Natural Language Processing", "Answer Set Programming", "Current Topics in Computational Linguistics", "Reasoning with Large Language Models", "Phonological Cognition", "Evaluating Chat-Optimized Language Models"]
     },
     {
+      "institution": "National Taiwan University, Taiwan",
+      "location": "Taipei, Taiwan",
+      "url": "https://www.ntu.edu.tw/english/",
+      "area": "Modern and Literary Chinese",
+      "studyType": "Language Class",
+      "startDate": "2024-02-26",
+      "endDate": "2024-08-16",
+      "courses": ["Upper-Advanced Chinese", "Advanced High Chinese"],
+      "score": "A+"
+    },
+    {
       "institution": "Humboldt-Universität zu Berlin, Germany",
       "location": "Berlin, Germany",
       "url": "https://www.hu-berlin.de/en",
@@ -84,7 +95,8 @@
       "area": "Indo-European and General Linguistics",
       "studyType": "BA",
       "startDate": "2010-10-01",
-      "endDate": "2015-03-01"
+      "endDate": "2015-03-01",
+      "score": "1.1 (very good)"
     }
   ],
   "skills": [

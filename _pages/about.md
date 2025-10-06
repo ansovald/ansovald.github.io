@@ -4,10 +4,10 @@ title: about
 permalink: /
 subtitle: <a href='https://clp.ling.uni-potsdam.de/'>colab (Universität Potsdam)</a> - <a href='https://gams.uni-graz.at/emho'>EMHo (Humboldt-Universität zu Berlin)</a>
 
-# profile:
-#   align: right
-#   # image: prof_pic.jpg
-#   image_circular: false # crops the image to make it circular
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
 #   more_info: >
 #     <p>555 your office number</p>
 #     <p>123 your address street</p>
